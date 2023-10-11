@@ -1,5 +1,5 @@
 
-# explanation_abstractions
+# ib_explanations
 Code for "An Information Bottleneck Characterization of the Understanding-Workload Tradeoff" by Sanneman, Tucker, and Shah.
 
 This code heavily leverages an existing IB library (embo) to generate abstractions along the IB tradeoff curve of complexity and task distortion.
@@ -59,4 +59,3 @@ title={An Information Bottleneck Characterization of the Understanding-Workload 
 author={Lindsay Sanneman and Mycal Tucker and Julie Shah},  
 year={2023}}
 </blockquote>
-}
