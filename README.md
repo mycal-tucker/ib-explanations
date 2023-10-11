@@ -45,7 +45,7 @@ If you want to generate abstractions for the color domain instead of the grid do
 To visualize some of the computational results from generating abstractions, run ``src/scripts/plot_from_csv.py``.
 The script loads data generated in the prior script and plots complexity and distortion values, like in the plot below (taken from the original paper).
 
-![alt text](artefacts/Reward Distortion_IB.png "Reward Distortion IB Curve for Manhattan grid")
+![alt text](artefacts/Reward_Distortion_IB.png "Reward Distortion IB Curve for Manhattan grid")
 
 The code also supports, of course, the color domain results. Simply edit the bottom of ``plot_from_csv.py`` to point to the color-based abstractions.
 
