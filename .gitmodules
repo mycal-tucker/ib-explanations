@@ -1,0 +1,6 @@
+[submodule "ib_color_naming"]
+	path = ib_color_naming
+	url = https://github.com/nogazs/ib-color-naming
+[submodule "embo"]
+	path = embo
+	url = https://github.com/mycal-tucker/embo-github-mirror.git
